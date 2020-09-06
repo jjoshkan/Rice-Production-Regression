@@ -1,0 +1,28 @@
+rice5.def
+
+	firm  year  prod  area  labor  fert
+  
+  Obs:   a panel with 44 firms over 2 years (1993-1994)
+	total observations = 88
+
+  	firm	Firm number  ( 1 to 44)
+	year	Year = 1993 to 1994
+	prod	Rice production (tonnes)
+	area	Area planted to rice (hectares)
+	labor	Hired + family labor (person days)
+	fert	Fertilizer applied (kilograms)
+
+           
+Data source: These data were used by O’Donnell, C.J. and W.E. Griffiths (2006), "Estimating State-Contingent Production Frontiers", American Journal of Agricultural Economics, 88(1), 249-266. They are from Philipine rice farms.     
+
+
+    Variable |       Obs        Mean    Std. Dev.       Min        Max
+-------------+--------------------------------------------------------
+        firm |        88        22.5     12.7712          1         44
+        year |        88      1993.5    .5028654       1993       1994
+        prod |        88    6.168636    4.849442         .6      21.07
+        area |        88    2.120227    1.419989         .2        5.5
+       labor |        88     107.392     71.1158         11        381
+-------------+--------------------------------------------------------
+        fert |        88    176.4182    154.2706         10      595.7
+      
