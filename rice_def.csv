@@ -1,7 +1,0 @@
-﻿Variables,Definition
-firm,Firm number  ( 1 to 44)
-year,Year = 1993 to 1994
-prod,Rice production (tonnes)
-area,Area planted to rice (hectares)
-labor,Hired + family labor (person days)
-fert,Fertilizer applied (kilograms)
